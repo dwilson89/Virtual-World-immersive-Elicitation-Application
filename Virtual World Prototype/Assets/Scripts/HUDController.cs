@@ -81,6 +81,7 @@ public class HUDController : MonoBehaviour {
 		EnableOverlay (EditHUD, enable);
 		//PositionHUD(EditHUD, front);
 		//DisableAllChildren (EditHUD, enable);
+
 	}
 
 	/** Function: EnableInspectionHUD
@@ -112,10 +113,11 @@ public class HUDController : MonoBehaviour {
 		//DisableAllChildren (overlay, enable);
 
 		//if the edit or inspection hud
-		if (overlay.Equals (EditHUD) || overlay.Equals (inspectionHUD) && enable == false) {
+		if ((overlay.Equals (EditHUD) || overlay.Equals (inspectionHUD)) && enable == false) {
 			PositionHUD(overlay, back);
-		} else if (overlay.Equals (EditHUD) || overlay.Equals (inspectionHUD) && enable == true) {
+		} else if ((overlay.Equals (EditHUD) || overlay.Equals (inspectionHUD)) && enable == true) {
 			PositionHUD(overlay, front);
+			Debug.Log ("Push to front");
 		}
 
 		//If enable and not the current overlay does not equal the selected overlay

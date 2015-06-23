@@ -160,31 +160,31 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Hover.Board">
- <HintPath>C:/Users/Dustin/Dropbox/VW project/Unity Files/Oculus Version/Virtual World Prototype/Assets/Plugins/Hover.Board.dll</HintPath>
+ <HintPath>D:/Programming Projects Repo/Virtual World Immersive Elicitation Application/Virtual World Prototype/Assets/Plugins/Hover.Board.dll</HintPath>
  </Reference>
  <Reference Include="Hover.Cast">
- <HintPath>C:/Users/Dustin/Dropbox/VW project/Unity Files/Oculus Version/Virtual World Prototype/Assets/Plugins/Hover.Cast.dll</HintPath>
+ <HintPath>D:/Programming Projects Repo/Virtual World Immersive Elicitation Application/Virtual World Prototype/Assets/Plugins/Hover.Cast.dll</HintPath>
  </Reference>
  <Reference Include="Hover.Cast.Input.Leap">
- <HintPath>C:/Users/Dustin/Dropbox/VW project/Unity Files/Oculus Version/Virtual World Prototype/Assets/Plugins/Hover.Cast.Input.Leap.dll</HintPath>
+ <HintPath>D:/Programming Projects Repo/Virtual World Immersive Elicitation Application/Virtual World Prototype/Assets/Plugins/Hover.Cast.Input.Leap.dll</HintPath>
  </Reference>
  <Reference Include="Hover.Common">
- <HintPath>C:/Users/Dustin/Dropbox/VW project/Unity Files/Oculus Version/Virtual World Prototype/Assets/Plugins/Hover.Common.dll</HintPath>
+ <HintPath>D:/Programming Projects Repo/Virtual World Immersive Elicitation Application/Virtual World Prototype/Assets/Plugins/Hover.Common.dll</HintPath>
  </Reference>
  <Reference Include="Hover.Common.Input.Leap">
- <HintPath>C:/Users/Dustin/Dropbox/VW project/Unity Files/Oculus Version/Virtual World Prototype/Assets/Plugins/Hover.Common.Input.Leap.dll</HintPath>
+ <HintPath>D:/Programming Projects Repo/Virtual World Immersive Elicitation Application/Virtual World Prototype/Assets/Plugins/Hover.Common.Input.Leap.dll</HintPath>
  </Reference>
  <Reference Include="Hover.Cursor">
- <HintPath>C:/Users/Dustin/Dropbox/VW project/Unity Files/Oculus Version/Virtual World Prototype/Assets/Plugins/Hover.Cursor.dll</HintPath>
+ <HintPath>D:/Programming Projects Repo/Virtual World Immersive Elicitation Application/Virtual World Prototype/Assets/Plugins/Hover.Cursor.dll</HintPath>
  </Reference>
  <Reference Include="Hover.Cursor.Input.Leap">
- <HintPath>C:/Users/Dustin/Dropbox/VW project/Unity Files/Oculus Version/Virtual World Prototype/Assets/Plugins/Hover.Cursor.Input.Leap.dll</HintPath>
+ <HintPath>D:/Programming Projects Repo/Virtual World Immersive Elicitation Application/Virtual World Prototype/Assets/Plugins/Hover.Cursor.Input.Leap.dll</HintPath>
  </Reference>
  <Reference Include="Hover.Cursor.Input.Look">
- <HintPath>C:/Users/Dustin/Dropbox/VW project/Unity Files/Oculus Version/Virtual World Prototype/Assets/Plugins/Hover.Cursor.Input.Look.dll</HintPath>
+ <HintPath>D:/Programming Projects Repo/Virtual World Immersive Elicitation Application/Virtual World Prototype/Assets/Plugins/Hover.Cursor.Input.Look.dll</HintPath>
  </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>C:/Users/Dustin/Dropbox/VW project/Unity Files/Oculus Version/Virtual World Prototype/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>D:/Programming Projects Repo/Virtual World Immersive Elicitation Application/Virtual World Prototype/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
